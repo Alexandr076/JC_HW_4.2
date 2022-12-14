@@ -1,0 +1,3 @@
+rootProject.name = 'JC_HW_4.2'
+include 'db'
+
